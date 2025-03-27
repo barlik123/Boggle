@@ -1,3 +1,18 @@
+The program creates a boggle game using two main classes,
+the boggle_gui class and the boggle_model class while the program itself is run by the boggle_controller class.
+The boggle_gui is using tkinter library and acts as the frontend of the project (displays the game and actions).
+The boggle_model calculates and processes the different computations of the program and acts as the backend.
+
+The game itself is about a board of random letter and the player needs to find adjacent letters that construct words.
+For more details about the game itself read here: https://en.wikipedia.org/wiki/Boggle
+
+To run the game you can double click the 'run' file or if you prefer, 
+you can use the command line and type 'python .\boggle.py'.
+
+Enjoy!
+
+
+Some details about the game's features:
 1) When selecting letters, buttons are highlighted in yellow to inform the
 user of his word path.
 2) After submitting, the word path is highlighted in red or green to indicate
