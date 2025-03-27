@@ -1,0 +1,17 @@
+1) When selecting letters, buttons are highlighted in yellow to inform the
+user of his word path.
+2) After submitting, the word path is highlighted in red or green to indicate
+if the word exists in the dictionary or not, or if the path is invalid.
+3) Remaining time is presented in mm:ss format.
+4) Score is presented to the user in its own label.
+5) Welcome screen greeting the user when starting to play, and indicates the
+labels uses.
+6) Label for the current word the user is constructing and for the words he
+has selected
+7) Buttons are highlighted when hovered.
+8) Buttons are highlighted after clicking (clicking affect).
+9) Rounds begin by clicking any button on the board.
+10) After time is up, the user asked if he would like to start another round
+(end round screen).
+11) The game displays the score percentage (the current score compared to the
+total possible score)

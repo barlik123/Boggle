@@ -1,0 +1,2 @@
+python .\boggle.py
+pause
